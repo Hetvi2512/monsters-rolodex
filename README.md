@@ -1,2 +1,2 @@
 # monsters-rolodex
-A react static application
+A React.js static application
